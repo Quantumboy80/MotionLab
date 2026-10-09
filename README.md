@@ -4,11 +4,11 @@
 
 **A motion-first design studio website. Smooth scroll, 3D blob, cinematic video, zero boring.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://your-vercel-url.vercel.app)
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![GSAP](https://img.shields.io/badge/GSAP-3-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://gsap.com)
-[![Three.js](https://img.shields.io/badge/Three.js-r167-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
+<a href="https://your-vercel-url.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Live Demo" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /></a>
+<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" /></a>
+<a href="https://gsap.com"><img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" /></a>
+<a href="https://threejs.org"><img src="https://skillicons.dev/icons?i=threejs" width="48" alt="Three.js" /></a>
 
 </div>
 
