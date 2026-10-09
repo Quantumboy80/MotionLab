@@ -4,6 +4,9 @@
 
 **A motion-first design studio website. Smooth scroll, 3D blob, cinematic video, zero boring.**
 
+
+![Preview](./preview.gif)
+
 <a href="[https://your-vercel-url.vercel.app](https://motion-lab-dun.vercel.app/)"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Live Demo" /></a>
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" /></a>
